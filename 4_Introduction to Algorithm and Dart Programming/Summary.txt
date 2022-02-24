@@ -1,0 +1,25 @@
+4-Introduction to Algorithm an Dart Programming
+-----------------------------------------------
+Resume
+------
+Materi yang dipelajari yaitu:
+1. komentar
+2. Tipe Data
+3. Operator
+
+1. Komentar
+Pada point ini mempelajari tetang komentar yang memiliki tujuan yaitu memberi catatan pada kode dan mencegah perintah dijalankan
+2. Tipe data
+jenis data yang dapat dikelola, tipe data sederhana disebut primitiv data type
+adapun jenis data, diantaranya:
+int ==> bilangan bulat
+double ==> bilangan pecahan
+bool ==> menggantikan var dengan bool dan data harus true atau false
+string ==> menggantikan var dengan string dan data berupa teks
+3. Operator
+digunakan untuk operasi pengolahan data, data yang dikelola disebut operand, 
+adapun operator ini dibagi menjadi beberapa macam, yaitu:
+	-Arithmetic ==>perhitugan matematis +,-,/
+	-Assignment ==> memberi nilai pada variabel =,+=,*=
+	-Comparison ==> membandingkan kesetaraan nilai ==,>,<,>=
+	-Logical ==> menggabungkan beberapa kondisi &&, II, !
