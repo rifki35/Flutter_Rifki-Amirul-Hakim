@@ -1,0 +1,6 @@
+Nama : Rifki Amirul Hakim
+Kelas : Fluter E
+
+Java, Kotlin (untuk android); Swift, Objective-C (untuk IOS); Dart (multiplatform)
+- aplikasi IOS yang tidak dapat berjalan di Android (Garage band, iMove, tweet bot)
+- aplikasi android yang tidak bisa berjalan di IOS (Droidlock, opera max, ES file explorer)
