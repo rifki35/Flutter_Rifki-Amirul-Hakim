@@ -1,0 +1,18 @@
+Bahasa pemrograman dart
+fungsi lanjutan
+async wait 
+Tipe data future
+collection
+
+1. fungsi lanjutan 
+Anonimous function (tidak memiliki nama, fungsi sebagai data)
+2. Async await
+dapat menjalankan bebrapa proses tanpa perlu menunggu, proses ditulis dalam 
+bentuk fungsi
+3. tipe data future
+dapat menggunakan waktu yang ditentukan.
+4.collection 
+struktur data yang lebih canggih untuk menangani masalah yang kompleks. bisa menyimpan data pada satu tempat
+ ==> List (menyimpan data secara berbaris, tiap data memiliki index)
+ ==> Map (menyimpan data secara key-value, key berguna selayaknya index pada list)
+setiap key mempunyai value nya masing masing. 
