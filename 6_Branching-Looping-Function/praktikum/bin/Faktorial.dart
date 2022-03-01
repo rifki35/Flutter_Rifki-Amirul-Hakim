@@ -1,10 +1,11 @@
-int faktorial (int n){
-  if (n==0) return 1;
-  return n*faktorial(n-1);
-}
-void main (){
-  print('10! : ${faktorial(10)}');
-  print('20! : ${faktorial(20)}');
-  print('30! : ${faktorial(30)}');
+import 'dart:io';
 
+void main(List<String> args) {
+  String inputAngka = stdin.readLineSync() ?? '';
+  num angkafixed = num.tryParse(inputAngka) ?? 0;
+  num faktorial = 1;
+  for (num i = angkafixed; i >= 1; i--) {
+    faktorial *= i;
+  }
+  print(faktorial);
 }

@@ -15,5 +15,6 @@ String angka(int a) {
 void main(List<String> args) {
   String inputAngka = stdin.readLineSync() ?? '';
   int angkafixed = int.tryParse(inputAngka) ?? 0;
+
   print(angka(angkafixed));
 }
