@@ -1,0 +1,28 @@
+6_Branching-Looping-Function
+---
+
+Section ini membahas materi yaitu:
+1. Pengambilan keputusan
+2. Perulangan
+3. Break and Continue
+
+1. Pengambilan keputusan
+terdiri dari :
+	- IF
+	memerlukan nilai bool(dari operator logical atau comparison). menjalanakan
+	bagian proses jika nilai bool bernilai true.
+	- IF-ELSE
+	berjalan dengan if. selain itu, menambah alternatif jika nilai bool adalah false
+2. Perulangan
+menjalankan proses berulang kali, terdapat dari :
+	- For
+	diketahui berapa kali perulangan terjadi, memerlukan nilai awal, memerlukan nilai bool
+	-While
+	tidak diketahui berapa kali  perulangan terjadi, memerlukan nilai bool, jika true maka 
+	perulangan dilanjutkan.
+	-Do-While
+	mengubah bentuk while. Proses dijalankan minimum sekali, akan diteruskan jika nilai bool adalah true
+3. Break and continue
+cara lain menghentikan perulangan
+	perulangan menggunakan nilai bool untuk lanjut atau berhenti. Break and continue dapat menghentikan perulangan
+	dengan mengabaikan nilai bool. continue dapat menghentikan satu kali proses
