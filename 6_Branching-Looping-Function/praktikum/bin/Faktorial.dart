@@ -1,10 +1,10 @@
 import 'dart:io';
-
+//supaya dapat dimasukkan input 
 void main(List<String> args) {
-  String inputAngka = stdin.readLineSync() ?? '';
-  num angkafixed = num.tryParse(inputAngka) ?? 0;
+  String masukkanAngka = stdin.readLineSync() ?? '';
+  num fixed = num.tryParse(masukkanAngka) ?? 0;
   num faktorial = 1;
-  for (num i = angkafixed; i >= 1; i--) {
+  for (num i = fixed; i >= 1; i--) {
     faktorial *= i;
   }
   print(faktorial);
