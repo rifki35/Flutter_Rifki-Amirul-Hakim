@@ -1,1 +1,27 @@
 ## Advance Function, Async-await
+
+Dalam materi ini dipelajari beberapa point, yaitu:
+1. async-await
+2. tiper data future
+3. collection
+
+1. async await 
+menjalankan beberapa proses tanpa perlu menunggu, sedangkan await akan menunggu hingga 
+proses async selesai. contohnya untuk await menampilkan teks kelayar dalam waktu 2 detik
+
+2. tipe data future
+data yang dapat ditunggu. berisi data return dari fungsi async
+
+3. collection 
+kumpulan data pada satu tempat, terdapat 2 jenis yaitu list dan map
+list merupakan tempat menyimpan data secara berbaris,sedangkan map
+menyimpan data secara key-value. key ini berguna selayaknya index pada list
+
+##Task
+1. Buatlah sebuah fungsi dengan spek berikut:
+a. menerima 2 parameter, yaitu list data dan pengali,
+b. lakukan perulangan pada list data secara asynchronus
+c. tiap perulangan, kalikan elemen list data dengan pengali
+d. return list baru yang berisi hasil proses di atas
+berikut adalah input dan outputnya:
+
