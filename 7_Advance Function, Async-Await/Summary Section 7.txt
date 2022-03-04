@@ -1,4 +1,5 @@
-## Advance Function, Async-Await
+Advance Function, Async-Await
+---
 
 Pada Section ini dipelajari beberapa point diantaranya:
 1. Async-await
@@ -19,3 +20,15 @@ menyimpan data secara berbaris dan tiap data memiliki index sedangkan map menyim
 data secara key-value, key berguna selayaknya index pada list. 
 
 Task
+---
+![logo](https://github.com/rifki35/Flutter_Rifki-Amirul-Hakim/blob/fdaee8e36e2603cacd43e6eb45ca4a8784373895/7_Advance%20Function,%20Async-Await/Screenshoot/Soal.PNG)
+berikut adalah inputnya:
+Task 1
+![logo](https://github.com/rifki35/Flutter_Rifki-Amirul-Hakim/blob/fdaee8e36e2603cacd43e6eb45ca4a8784373895/7_Advance%20Function,%20Async-Await/Screenshoot/task%201.PNG)
+Task 2
+![logo](https://github.com/rifki35/Flutter_Rifki-Amirul-Hakim/blob/fdaee8e36e2603cacd43e6eb45ca4a8784373895/7_Advance%20Function,%20Async-Await/Screenshoot/task%202.PNG)
+
+Output Task 1
+![logo](https://github.com/rifki35/Flutter_Rifki-Amirul-Hakim/blob/fdaee8e36e2603cacd43e6eb45ca4a8784373895/7_Advance%20Function,%20Async-Await/Screenshoot/output%20task%201.PNG)
+Output Task 2
+![logo](https://github.com/rifki35/Flutter_Rifki-Amirul-Hakim/blob/fdaee8e36e2603cacd43e6eb45ca4a8784373895/7_Advance%20Function,%20Async-Await/Screenshoot/output%20task%202.PNG)
