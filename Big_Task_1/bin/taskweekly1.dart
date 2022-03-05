@@ -1,6 +1,6 @@
 //menentukan nilai ganjil dan genap
 var angkaGanjilGenap = (int input){
-  if (input % 2 == 0){
+  if (input % 1 == 0){
     return true;
     //apabila benar
   } else {
