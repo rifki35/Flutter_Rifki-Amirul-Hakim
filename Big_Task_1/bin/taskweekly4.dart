@@ -1,17 +1,20 @@
-import 'dart:io';
+import "dart:io";
 
 void main() {
-  int i, j, numbers, n =10;
-  // n merupakan tempat untuk menginput nilai
+  diagonalAngka(2);
+}
 
-  for(i=0;i<n;i++){
-    numbers = 1;
-    for(j = 0; j<=i;j++)
-    {
-      stdout.write('$numbers ');
-      numbers++;
+void diagonalAngka(int input) {
+  for (var i = 1; i <= input; i++) {
+    String bintang = '';
+    for (var j = 1; j <= i; j++) {
+      if (j == i) {
+        bintang += i.toString();
+      } else {
+        bintang += " ";
+      }
     }
-    stdout.writeln();
-  }
 
+    print(bintang);
+  }
 }
