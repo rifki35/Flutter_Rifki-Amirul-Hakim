@@ -6,14 +6,13 @@ for (var i = 0; i < 14; i++) {
 }
 class Hewan{
   String name = '';
-  int beratBadanHewan = 100;
-
+  int beratBadanHewan = 200;
 }
 class Mobil{
   List<Hewan> muatan = [];
 void tambahMuatan(){
   int totalBeratBadan = 0;
-  int kapasitas = 1000;
+  int kapasitas = 2000;
   for (var i = 0; i < muatan.length; i++) {
     totalBeratBadan += muatan[i].beratBadanHewan;
   } if(kapasitas > totalBeratBadan){
