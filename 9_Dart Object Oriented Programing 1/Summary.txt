@@ -1,0 +1,20 @@
+Dart Object Oriented Programing 1
+---
+Dalam materi mempelajari beberapa poin, yaitu:
+1. Class
+2. Property
+3. Method
+
+1. Class
+merupakan abstraksi dari sebuah benda, contoh hewan, kendaraan
+
+2. property,
+merupakah ciri ciri dari class/hal hal yang dimiliki suatu class,
+contoh hewan (mempunyai kaki 4, mata 2 dst)
+
+3. Method
+merupakan sifat dan kemampuan dari class. memiliki sifat seperti fungsi
+
+
+TASK
+---
