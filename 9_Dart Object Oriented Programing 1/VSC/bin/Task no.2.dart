@@ -19,4 +19,7 @@ void tambahMuatan(){
     muatan.add(Hewan());
   }
 }
+void totalMuatan () {
+  
+}
 }
