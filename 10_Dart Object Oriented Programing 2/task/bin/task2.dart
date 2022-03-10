@@ -22,3 +22,7 @@ class Balok extends BangunRuang {
     return panjang * lebar * tinggi;
   }
 }
+void main(){
+  print(Kubus().volume());
+  print(Balok().volume());
+}

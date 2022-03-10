@@ -1,0 +1,52 @@
+Dart Object Oriented Programing 2
+---
+
+Dimateri ini menjelaskan beberapa poit yaitu:
+1. Constructor
+2. Inheritance
+3. Method Overriding
+4. Interface
+5. Abstract Class
+6. Polymorphism
+7. Generic
+
+1. Constructor
+metode yang dijalankan saat pembuatan objek, dapat menerima parameter, tidak 
+memiliki return, nama sama dengan class
+
+2. Inheritance
+membuat class baru dengan memanfaatkan class yang sudah ada, tujuannya agar
+kemampuan class yang sudah ada dapat dimiliki oleh class baru, dengan menambahkan
+extends saat pembuatan class baru
+
+3. Method Overriding
+menulis ulang method yang ada pada super-class, bertujuan agar memiliki method yang
+sama, dengan proses yang berbeda.dilakukan pada class yang melakukan inheritance, 
+ditambahkan tanda @override dibaris sebelum method dibuat
+
+4. Interface
+menunjukkan method apa saja yang ada pada suatu class, digunakan dengan menggunakan
+implements
+
+5. Abstract Class
+menunjukkan method apa saja yang ada pada suatu class, digunakan dengan menggunakna
+extends, tidak dapat dibuat object, tidak semua method harus di override
+
+6. Polymorphism
+kemampuan data berubah menjadi bentuk lain, tipe data yang dapat digunakan adalah
+super class, dapat digunakan pada class dengan extends atau implements
+
+7. Generic
+dapat digunakan pada class atau fugnsi, memberi kemampuan agar dapat menerima data 
+dengan tipe yang berbeda, tipe data yang diinginkan, ditentukaan saat membuat class 
+atau menjalankan fungsi. 
+
+TASK 
+1. Buatlah class dengan spek berikut:
+2. Dari rangkaian diatas, lakukan method overriding untuk membedakan tiap proses
+dalam method antar class! sehingga dapat menlengkapi kode berikut:
+
+
+3. Buatlah class dengan spek berikut!
+4. Dari rangkaian class diatas, lengkapi kode berikut ini!
+sehingga dapat menampilkan hasil pada layar.
