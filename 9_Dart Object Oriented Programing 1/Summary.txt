@@ -18,3 +18,7 @@ merupakan sifat dan kemampuan dari class. memiliki sifat seperti fungsi
 
 TASK
 ---
+![soal 1.PNG] (https://github.com/rifki35/Flutter_Rifki-Amirul-Hakim/blob/5c5e7a53dbdab9354d368f33a6b5f6d46b9f1965/9_Dart%20Object%20Oriented%20Programing%201/SS/soal%201.PNG)
+![Input 1.PNG] (https://github.com/rifki35/Flutter_Rifki-Amirul-Hakim/blob/5c5e7a53dbdab9354d368f33a6b5f6d46b9f1965/9_Dart%20Object%20Oriented%20Programing%201/SS/Input%201.PNG)
+![Output 1.PNG] (https://github.com/rifki35/Flutter_Rifki-Amirul-Hakim/blob/5c5e7a53dbdab9354d368f33a6b5f6d46b9f1965/9_Dart%20Object%20Oriented%20Programing%201/SS/Output%201.PNG)
+![soal 2.PNG] (https://github.com/rifki35/Flutter_Rifki-Amirul-Hakim/blob/5c5e7a53dbdab9354d368f33a6b5f6d46b9f1965/9_Dart%20Object%20Oriented%20Programing%201/SS/soal%202.PNG)
