@@ -19,6 +19,7 @@ class Kpk implements Matematika {
     return result;
   }
 }
+
 void main(){
   print(Kpk().hasil());
 }
