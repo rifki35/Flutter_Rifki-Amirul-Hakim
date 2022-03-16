@@ -46,12 +46,3 @@ class _MyAppState extends State {
     );
   }
 }
-
-Widget textJam(){
-  return Center(
-    child: text(
-      jam,
-      style: TextStyle(fontSize: 40),
-    ), // Text
-  );
-}
