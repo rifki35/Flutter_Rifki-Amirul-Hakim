@@ -45,8 +45,9 @@ TASK
 1. Buatlah class dengan spek berikut:
 2. Dari rangkaian diatas, lakukan method overriding untuk membedakan tiap proses
 dalam method antar class! sehingga dapat menlengkapi kode berikut:
-
+![task 1.PNG](https://github.com/rifki35/Flutter_Rifki-Amirul-Hakim/blob/dcfc18c3d2e4654f582a2ac121f594ff5fdddfd2/10_Dart%20Object%20Oriented%20Programing%202/ss/task%201.PNG)
 
 3. Buatlah class dengan spek berikut!
 4. Dari rangkaian class diatas, lengkapi kode berikut ini!
 sehingga dapat menampilkan hasil pada layar.
+![task 2](https://github.com/rifki35/Flutter_Rifki-Amirul-Hakim/blob/dcfc18c3d2e4654f582a2ac121f594ff5fdddfd2/10_Dart%20Object%20Oriented%20Programing%202/ss/task%202.PNG)
