@@ -25,6 +25,7 @@ class _MyAppState extends State {
   @override
   void initState() {
     startJam();
+    // ignore: todo
     // TODO: implement initstates
     super.initState();
   }
