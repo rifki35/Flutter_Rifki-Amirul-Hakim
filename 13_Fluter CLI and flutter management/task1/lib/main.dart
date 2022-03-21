@@ -25,7 +25,7 @@ class HomePage extends StatelessWidget {
       body: Center(
         child: BarcodeWidget(
         barcode: Barcode.code128(),
-        data: 'Hello Flutter',
+        data: 'Alterra Academy_Flutter Asik_Rifki Amirul Hakim',
         ),
       ),
     );
