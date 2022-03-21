@@ -21,11 +21,12 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(child:  
-      Badge(
+      body: Center(child: 
+        Badge(
         badgeContent: Text('3'),
         child: Icon(Icons.settings),
-    ),) ,
+    )
+    ),
     );
   }
 }
