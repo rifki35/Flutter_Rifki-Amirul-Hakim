@@ -26,7 +26,7 @@ class HomePage extends StatelessWidget {
         child: BarcodeWidget(
         barcode: Barcode.code128(),
         data: 'Hello Flutter',
-);,
+        ),
       ),
     );
   }
