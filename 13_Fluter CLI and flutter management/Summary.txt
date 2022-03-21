@@ -1,0 +1,35 @@
+13_Flutter CLI and Flutter Management
+---
+Dalam materi ini terdapat 3 point, yaitu:
+1. Flutter CLI
+2. Important CLI Commands
+3. Package Management
+
+1. Flutter CLI
+Alat yang digunakan untuk berinteraksi dengan flutter SDK, perintah dijalankan dalam 
+terminal
+2. Important CLI Commands
+terdiri dari beberapa command yang penting untuk menjalankan perintah, yaitu:
+	flutter doctor (perintah untuk menampilkan software yang dibutuhkan)
+	flutter create (membuat projek apliasi flutter baru di directory tertentu)
+	flutter run (menjalankan projek aplikasi di device yang tersedia)
+	flutter emulator (menampilkan daftar emulator yang terinstall dan menampilkan 
+			opsi untuk membuka emulator atau membuat emulator baru)
+	flutter channel (menampilkan daftar flutter channel yang tersedia dan menunjukkan
+			channel yang digunakan saat ini)
+	flutter pub 
+	flutter build
+	flutter clean
+3. Package management
+flutter mendukung sharing packages, dibuat oleh developer lain
+tujuannya untuk mempercepat pengembangan aplikasi karena tidak perlu membuat semuanya
+dari awal atau from scratch
+
+Task 
+---
+1A. Menggunakan Package
+1B. Buatlah tampilan berikut ini!
+
+
+2A. Menggunakan Package
+2B. Buatlah tampilan barcode dengan data berikut ini!
