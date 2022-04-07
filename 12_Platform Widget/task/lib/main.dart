@@ -91,7 +91,7 @@ class MainPage extends StatelessWidget {
                                         style: TextStyle(
                                           color: Colors.white,
                                         ),
-                                        ),
+                                      ),
                                     )
                                   ],
                                 )
@@ -112,16 +112,16 @@ class MainPage extends StatelessWidget {
 }
 
 final Name = [
-  "Monica",
-  "Pricilia",
-  "Putri",
-  'Eka',
-  'Raon',
-  'lee',
-  'Kartika',
-  'Dewy',
-  'Jihan',
-  'Zahra'
+  "Aprilia",
+  "Bagus",
+  "Indra",
+  'Maria',
+  'Hari',
+  'Cantika',
+  'Dewa',
+  'Andira',
+  'Berniqa',
+  'Harya'
 ];
 
 final subtitles = [
