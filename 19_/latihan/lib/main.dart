@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:latihan/home_screen.dart';
+import 'package:latihan/about_screen.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({ Key? key }) : super(key: key);
