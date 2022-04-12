@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
         title: 'Flutter Demo',
         theme: ThemeData(
           primarySwatch: Colors.blue,
@@ -34,7 +35,7 @@ class ContactPage extends StatelessWidget {
   Widget build(BuildContext context) {
     final state = Provider.of<ContactState>(context);
     return Scaffold(
-      appBar: AppBar(title: Text('Contact')),
+      appBar: AppBar(title: Text('My Contact'),centerTitle: true,),
       body: Padding(
         padding: EdgeInsets.symmetric(vertical: 10, horizontal: 20),
         child: ListView.builder(
