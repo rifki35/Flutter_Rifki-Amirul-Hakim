@@ -9,7 +9,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Home Screen'),
-        centerTitle: false,
+        centerTitle: true,
       ),
       body: Center(
         child: ElevatedButton(

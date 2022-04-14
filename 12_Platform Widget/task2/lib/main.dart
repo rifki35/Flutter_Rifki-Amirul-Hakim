@@ -61,12 +61,13 @@ class ChatsPage extends StatelessWidget {
                   padding: EdgeInsets.only(right: 20),
                   child: CupertinoSearchTextField(
                     placeholder: 'Search',
-                  )),
+                  ),
+                  ),
             ],
           ),
         ),
 SliverList(
-            delegate: SliverChildListDelegate(List.generate(10, (index) {
+            delegate: SliverChildListDelegate(List.generate(10, (index){
           return Row(
             children: [
               SizedBox(
