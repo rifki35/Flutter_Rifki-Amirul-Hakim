@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 import 'package:flutter/material.dart';
 import 'package:latihan_storage/profile.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -11,8 +9,6 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
-
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -89,19 +85,15 @@ class _MyHomePageState extends State<MyHomePage> {
                 onPressed: ()async{
                   final pref.setString('email',email);
                   final pref.setString('name',name);
-                  Navigator.push(context, MaterialPageRoute(builder: ((context) => Profile(),));
+                  Navigator.push(context, MaterialPageRoute(builder: (context) => Profile(),
+                  ));
                 },
+                child: Text('Login')))
               ),
             )
-            
-        
           ],
         ),
       ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment',
-        child: const Icon(Icons.add),
       ), 
     );
   }
