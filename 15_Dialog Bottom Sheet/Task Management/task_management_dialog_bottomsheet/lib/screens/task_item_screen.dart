@@ -1,5 +1,3 @@
-// TODO 8: Membuat task item screen, membuat properti dan constructor
-
 import 'package:flutter/material.dart';
 import 'package:task_management_2/models/task_model.dart';
 import 'package:uuid/uuid.dart';

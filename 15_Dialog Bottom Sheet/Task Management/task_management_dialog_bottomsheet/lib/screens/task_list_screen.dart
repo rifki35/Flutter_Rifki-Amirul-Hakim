@@ -1,5 +1,3 @@
-// TODO 16: buat task list screen
-
 import 'package:flutter/material.dart';
 import 'package:task_management_2/components/task_item_card.dart';
 import 'package:task_management_2/models/task_manager.dart';

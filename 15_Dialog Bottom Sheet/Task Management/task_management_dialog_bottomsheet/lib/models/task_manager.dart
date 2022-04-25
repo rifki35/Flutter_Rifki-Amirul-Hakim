@@ -1,4 +1,3 @@
-// TODO 5: Membuat task manager
 
 import 'package:flutter/cupertino.dart';
 import 'task_model.dart';

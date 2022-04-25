@@ -1,4 +1,3 @@
-// TODO 21: membuat content pada bottom sheet
 import 'package:flutter/material.dart';
 
 class ProfileSheet extends StatelessWidget {

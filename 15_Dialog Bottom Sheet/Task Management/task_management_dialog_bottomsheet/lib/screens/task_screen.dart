@@ -7,7 +7,6 @@ import 'package:task_management_2/screens/task_list_screen.dart';
 import 'empty_task_screen.dart';
 import 'task_item_screen.dart';
 
-// TODO 2: Membuat Task Screen
 class TaskScreen extends StatelessWidget {
   const TaskScreen({Key? key}) : super(key: key);
 

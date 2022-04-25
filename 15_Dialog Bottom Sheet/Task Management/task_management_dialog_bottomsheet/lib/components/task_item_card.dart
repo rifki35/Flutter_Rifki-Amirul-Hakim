@@ -1,11 +1,11 @@
-// TODO 13: buat task item card
+
 
 import 'package:flutter/material.dart';
 import 'package:task_management_2/models/task_model.dart';
 
 class TaskItemCard extends StatelessWidget {
   final TaskModel task;
-  // TODO 18: Membuat properti onpPressed
+ 
   final Function() onPressed;
 
   const TaskItemCard({
