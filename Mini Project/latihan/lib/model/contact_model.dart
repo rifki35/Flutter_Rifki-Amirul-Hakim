@@ -1,9 +1,8 @@
 
 class Contact{
-  final int id;
-  final String name;
-  final String phone;
+  final String email;
+  final String pasword;
 
-  Contact ({required this.id, required this.name, required this.phone});
+  Contact ({required this.email, required this.pasword});
 
 }

@@ -8,9 +8,8 @@ class ContactAPI {
     List<Contact> contacts = (response.data as List)
         .map(
           (e) => Contact(
-            id: e['id'],
-            name: e['name'],
-            phone: e['phone'],
+            name: e['email'],
+            email: e['password'],
           ),
         )
         .toList();
